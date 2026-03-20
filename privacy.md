@@ -1,50 +1,67 @@
- # Privacy Policy
+# Privacy Policy
 
 **Last updated:** March 2026
 
-## 1. Introduction
+## 1. Overview
 
-Arboy Smart Home ("we", "our", or "us") operates a smart home automation system integrated with Google Home. We are committed to protecting your privacy and ensuring transparency in how your data is handled.
+Arboy Smart Home ("we", "our", or "us") provides smart home automation services integrated with platforms such as Google Home.
+
+This service is intended for personal smart home automation and small-scale deployments.
+
+We are committed to protecting user privacy and ensuring transparency in how data is handled.
 
 ## 2. Information We Collect
 
-We may collect limited data necessary to operate the service, including:
+To operate our services, we may collect limited information, including:
 
-* User commands (e.g., turning devices on/off)
-* Device status (e.g., light state, sensor data)
-* Basic technical logs for system reliability
+* User commands (e.g., turning devices on/off, automation triggers)
+* Device status and sensor data (e.g., light state, temperature, automation logs)
+* Technical logs (e.g., system activity, error logs for troubleshooting)
 
-We do **not** collect sensitive personal data such as passwords, financial data, or personal identity documents.
+We do **not** collect sensitive personal information such as passwords, financial data, or government identification numbers.
 
 ## 3. How We Use Information
 
-We use the collected data solely to:
+We use collected data strictly to:
 
-* Execute smart home commands
-* Improve automation accuracy
-* Maintain system performance and reliability
+* Execute and respond to user commands
+* Provide automation and smart home functionality
+* Improve system performance, reliability, and accuracy
+* Diagnose and fix technical issues
 
-## 4. Data Sharing
+## 4. Data Retention
 
-We do **not** sell, rent, or share your data with third parties.
+We retain data only for as long as necessary to operate the service and maintain system reliability. Logs may be periodically deleted or anonymized.
 
-## 5. Data Security
+## 5. Data Sharing and Disclosure
 
-We implement reasonable security measures to protect your data from unauthorized access.
+We do **not** sell, trade, or rent user data to third parties.
+Data may only be shared if required by law or to comply with legal obligations.
 
 ## 6. Third-Party Services
 
-Our system may integrate with services such as Google Home. These services have their own privacy policies.
+Our services may integrate with third-party platforms such as Google Home. These platforms operate under their own privacy policies, and we encourage users to review them.
 
-## 7. User Control
+## 7. Data Security
 
-Users have full control over their devices and can disable the service at any time.
+We implement reasonable administrative and technical safeguards to protect data against unauthorized access, alteration, or disclosure.
 
-## 8. Contact
+## 8. User Control
 
-If you have any questions, please contact:
-Email: [your@email.com](mailto:your@email.com)
+Users have full control over their smart home devices and can:
 
-## 9. Changes to This Policy
+* Disable integrations at any time
+* Stop using the service without penalty
 
-We may update this Privacy Policy from time to time. Updates will be posted on this page.
+## 9. Children's Privacy
+
+Our service is not intended for children under the age of 13, and we do not knowingly collect data from children.
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised date.
+
+## 11. Contact Information
+
+If you have any questions or concerns, please contact us at:
+Email: arifsetia03@gmail.com
