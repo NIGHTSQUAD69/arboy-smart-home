@@ -24,4 +24,4 @@ https://nightsquad69.github.io/arboy-smart-home/privacy
 
 ## Contact
 
-Email: [your@email.com](mailto:your@email.com)
+Email: arifsetia03@gmail.com
